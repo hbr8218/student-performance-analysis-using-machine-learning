@@ -6,9 +6,9 @@
 * [Technical Aspect](#technical-aspect)
 * [To Do](#to-do)
 * [Bug Request](#bug-request)
-* [Techniques Used](#technique-used)
+* [Technoqies Used](#technologies-used)
 * [Credits](#credits)
-* [Citation](#citation)
+* [Citation Request](#citation-request)
 
 
 ## Overview
@@ -40,3 +40,26 @@ x==14 or x==15 -> Good <br>
 
 3. Regression Modelling(Predictive G3/Final grade)
 Different Machine learning algorithms like linear regression, ensemble techniques, catboots, xgboost,etc have been trained on two datasets(from UCI machine learning repository rather my college's dataset)  for predicting the Final grade i.e. G3 based on independent variables. 
+
+## To Do
+Following are the future planning with this project:-
+1. A chatbot will be developed based on the model that can tell students to predict their performance and how their habbit may affect their performance and guide to pick up the important subjects for a given semester. (On going)
+2. To deploy on cloud storage like AWS.
+
+## Bug Request
+If you have any suggestion, find any bug in the code  or have any query, feel free to contact me at hbr8218@gmail.com
+
+## Technologies Used
+- [Scikit-learn](https://scikit-learn.org/stable/index.html) has been used.
+- Multiple pipline technique
+- Data Normalization
+- Principal Component Analysis(PCA)
+- Clustering(K-Means) and Elbow-plot for finding reasonable number of clusters, etc.
+
+## Credits
+1. This project wouldn't have been possible without the assitance of my guru (Teacher/Guide/Tutor) Mr. Soumya Kanti Bhattacharya(Asst. prof, Computer Science Engineering branch, Bengal College of Engineering and Technology(West Bengal, India)) who help me through out project.
+2. [UCI Machine Learning Repository]
+
+## Citation Request
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
+[<a href="http://www3.dsi.uminho.pt/pcortez/student.pdf">Web Link</a>]
