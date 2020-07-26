@@ -19,7 +19,7 @@ This data approach student achievement in secondary education of two Portuguese 
 
 
 ## Motivation
-Thinking about the final year project (B.TECH), A question came on my mind that why my college does not come in the categories of avarage colleges, why my college is not counted with India's top colleges > How the performance of students affect the college and what factors might be there which influenced the performance of the students. Thus, I decided to do a analysis on student's performance on sample dataset. Before that I had to do the same thing with a public dataset which I found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and got two datasets dealing with different factors affecting student's performace in two subjects i.e. Math and Portuguese Language.
+Thinking about the final year project (B.TECH), A question came on my mind that why my college comes in the categories of avarage colleges, why my college is not counted with India's top colleges > How the performance of students affect the college and what factors might be there which influenced the performance of the students. Thus, I decided to do a analysis on student's performance on sample dataset. Before that I had to do the same thing with a public dataset which I found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and got two datasets dealing with different factors affecting student's performace in two subjects i.e. Math and Portuguese Language.
 
 
 ## Technical Aspect
