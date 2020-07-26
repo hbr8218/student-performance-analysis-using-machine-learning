@@ -57,7 +57,7 @@ If you have any suggestion, find any bug in the code  or have any query, feel fr
 - Clustering(K-Means) and Elbow-plot for finding reasonable number of clusters, etc.
 
 ## Credits
-1. This project wouldn't have been possible without the assitance of my guru (Teacher/Guide/Tutor) Mr. Soumya Kanti Bhattacharya(Asst. prof, Computer Science Engineering branch, Bengal College of Engineering and Technology(West Bengal, India)) who help me through out project.
+1. This project wouldn't have been possible without the assitance of my guru (Teacher/Guide/Tutor) Mr. Soumya Kanti Bhattacharya(Asst. prof, Computer Science Engineering branch, Bengal College of Engineering and Technology(West Bengal, India)) who helped me through out project.
 2. [UCI Machine Learning Repository]
 
 ## Citation Request
